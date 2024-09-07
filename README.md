@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthausMM
 - 👀 I’m interested in Fortnite - 2018
-- 🌱 I’m currently learning Java, C, Haskell.
+- 🌱 I’m currently utilizing Java, Python, Html, Php, Css, JavaScript, C & Haskell.
 - 📫 How to reach me matthausmachado@gmail.com
 
 <!---
