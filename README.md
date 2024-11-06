@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatthausMM
-- 👀 I’m interested in Fortnite - 2018
+- 👀 I’m interested in Fortnite - 2018 (coming back)
 - 🌱 I’m currently utilizing Java, Python, Html, Php, Css, JavaScript, C & Haskell.
-- 📫 How to reach me matthausmachado@gmail.com
+- 📫 How to reach me matthaus.machado@edu.pucrs.br
 
 <!---
 MatthausMM/MatthausMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
