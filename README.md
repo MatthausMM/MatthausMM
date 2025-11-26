@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthausMM
-- 🌱 I’m currently utilizing Java, Python, Html, Php, Css, JavaScript, C & Haskell.
+- 🌱 I’m currently utilizing Java, Python, Html, Php, Css, JavaScript, C, Haskell & GO.
 - 📫 How to reach me matthaus.machado@edu.pucrs.br
 
 <!---
